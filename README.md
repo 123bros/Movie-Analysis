@@ -1,5 +1,16 @@
 # Movie-Analysis
 
-# About
+## About
 
-## lala
+## Contributors
+
+## Problem Definition
+
+## Models Used
+
+## Conclusion
+
+## What did we learn from this project?
+
+## References
+

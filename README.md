@@ -15,7 +15,7 @@ This a project for SC1015, it will mainly be focused on Movie Analysis obtained 
 ## Problem Definition
 
 ## Models Used
-Random Forest Model
+Random Forest Model\n
 Logistic Regression
 
 ## Conclusion

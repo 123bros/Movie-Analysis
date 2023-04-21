@@ -18,12 +18,13 @@ To determine if movies are profitable mainly based off their budget
 If movies profitability are affected by any other factors
 
 ## Models Used
-Random Forest Model
+1. Random Forest Model
 
-Logistic Regression
+2. Logistic Regression
 
 ## Conclusion
-
+- We have concluded that that in order for a movie to be profitable, it has to reach a revenue profit of ....%
+- Profitability of a movie has a high correlation with regards to the budget, but other factors such as Cast/ Genre could affect
 ## What did we learn from this project?
 
 ## References

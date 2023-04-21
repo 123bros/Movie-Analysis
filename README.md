@@ -13,9 +13,13 @@ This a project for SC1015, it will mainly be focused on Movie Analysis obtained 
 @hw- Han Wen
 
 ## Problem Definition
+To determine if movies are profitable mainly based off their budget
+
+If movies profitability are affected by any other factors
 
 ## Models Used
-Random Forest Model\n
+Random Forest Model
+
 Logistic Regression
 
 ## Conclusion

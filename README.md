@@ -23,10 +23,11 @@ If movies profitability are affected by any other factors
 2. Logistic Regression
 
 ## Conclusion
-- We have concluded that that in order for a movie to be profitable, it has to reach a revenue profit of ....%
+- We have concluded that that in order for a movie to be profitable, it has to reach a multiplier Revenue/Budget of 3.9x
 - Profitability of a movie has a high correlation with regards to the budget, but other factors such as Cast/ Genre could affect
 ## What did we learn from this project?
-
+- It is important to select a suitable model for the analysis of the question
+- The various machine learning models and how to implement them
 ## References
 
 https://christophm.github.io/interpretable-ml-book/logistic.html

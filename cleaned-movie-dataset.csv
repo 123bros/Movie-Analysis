@@ -1,0 +1,367 @@
+,Title,Genres,Cast,Budget,Revenue,Popularity,Vote_average,Release_decade
+0,The Theory of Everything,"['Drama', 'Romance']","['Eddie Redmayne', 'Felicity Jones', 'Charlie Cox', 'Emily Watson', 'Simon McBurney']",15000000,123726688,22.12,7.864,2010s
+1,Die Hard,"['Action', 'Thriller']","['Bruce Willis', 'Alan Rickman', 'Alexander Godunov', 'Bonnie Bedelia', 'Reginald VelJohnson']",28000000,140767956,52.121,7.764,1980s
+2,Home Alone,"['Comedy', 'Family']","['Macaulay Culkin', 'Joe Pesci', 'Daniel Stern', ""Catherine O'Hara"", 'John Heard']",18000000,476684675,2.289,7.404,1990s
+3,Madagascar,"['Family', 'Animation', 'Adventure', 'Comedy']","['Ben Stiller', 'Chris Rock', 'David Schwimmer', 'Jada Pinkett Smith', 'Sacha Baron Cohen']",75000000,542063846,93.185,6.884,2000s
+4,Minions,"['Family', 'Animation', 'Adventure', 'Comedy']","['Sandra Bullock', 'Jon Hamm', 'Michael Keaton', 'Allison Janney', 'Steve Coogan']",74000000,1156730962,33.933,6.394,2010s
+5,Oblivion,"['Action', 'Science Fiction', 'Adventure', 'Mystery']","['Tom Cruise', 'Morgan Freeman', 'Olga Kurylenko', 'Andrea Riseborough', 'Nikolaj Coster-Waldau']",120000000,286168572,26.303,6.611,2010s
+6,The Matrix Reloaded,"['Adventure', 'Action', 'Thriller', 'Science Fiction']","['Keanu Reeves', 'Laurence Fishburne', 'Carrie-Anne Moss', 'Hugo Weaving', 'Jada Pinkett Smith']",150000000,738599701,41.339,7.034,2000s
+7,Fast & Furious 6,"['Action', 'Thriller', 'Crime']","['Vin Diesel', 'Paul Walker', 'Dwayne Johnson', 'Jordana Brewster', 'Michelle Rodriguez']",160000000,788680968,14.552,6.812,2010s
+8,Bruce Almighty,"['Fantasy', 'Comedy']","['Jim Carrey', 'Morgan Freeman', 'Jennifer Aniston', 'Philip Baker Hall', 'Catherine Bell']",80000000,484592874,49.024,6.699,2000s
+9,Nightcrawler,"['Crime', 'Drama', 'Thriller']","['Jake Gyllenhaal', 'Rene Russo', 'Riz Ahmed', 'Bill Paxton', 'Kevin Rahm']",8500000,50300000,44.654,7.701,2010s
+10,Gran Torino,['Drama'],"['Clint Eastwood', 'Christopher Carley', 'Bee Vang', 'Ahney Her', 'Brian Haley']",33000000,269958228,20.518,7.999,2000s
+11,Furious 7,"['Action', 'Thriller', 'Crime']","['Vin Diesel', 'Paul Walker', 'Dwayne Johnson', 'Jason Statham', 'Michelle Rodriguez']",190000000,1515341399,122.335,7.232,2010s
+12,Casino Royale,"['Adventure', 'Action', 'Thriller']","['Daniel Craig', 'Eva Green', 'Mads Mikkelsen', 'Judi Dench', 'Jeffrey Wright']",150000000,599045960,41.09,7.531,2000s
+13,Spectre,"['Action', 'Adventure', 'Thriller']","['Daniel Craig', 'Christoph Waltz', 'Léa Seydoux', 'Ralph Fiennes', 'Naomie Harris']",245000000,880674609,30.488,6.528,2010s
+14,Monsters University,"['Animation', 'Family']","['Billy Crystal', 'John Goodman', 'Steve Buscemi', 'Helen Mirren', 'Peter Sohn']",200000000,743559607,95.188,7.027,2010s
+15,Slumdog Millionaire,"['Drama', 'Romance']","['Dev Patel', 'Saurabh Shukla', 'Anil Kapoor', 'Raj Zutshi', 'Jeneva Talwar']",15000000,378410542,43.442,7.734,2000s
+16,The Fifth Element,"['Adventure', 'Fantasy', 'Action', 'Thriller', 'Science Fiction']","['Bruce Willis', 'Milla Jovovich', 'Gary Oldman', 'Ian Holm', 'Chris Tucker']",90000000,263920180,52.973,7.524,1990s
+17,Limitless,"['Thriller', 'Mystery', 'Science Fiction']","['Bradley Cooper', 'Robert De Niro', 'Abbie Cornish', 'Andrew Howard', 'Anna Friel']",27000000,161849455,50.553,7.182,2010s
+18,Pan's Labyrinth,"['Fantasy', 'Drama', 'War']","['Ivana Baquero', 'Maribel Verdú', 'Sergi López', 'Doug Jones', 'Ariadna Gil']",19000000,83258226,32.006,7.752,2000s
+19,Saving Private Ryan,"['Drama', 'History', 'War']","['Tom Hanks', 'Tom Sizemore', 'Edward Burns', 'Matt Damon', 'Barry Pepper']",70000000,481840909,84.065,8.207,1990s
+20,The Prestige,"['Drama', 'Mystery', 'Science Fiction']","['Hugh Jackman', 'Christian Bale', 'Michael Caine', 'Scarlett Johansson', 'Rebecca Hall']",40000000,109676311,39.109,8.203,2000s
+21,X-Men: Days of Future Past,"['Action', 'Adventure', 'Science Fiction']","['Hugh Jackman', 'James McAvoy', 'Michael Fassbender', 'Jennifer Lawrence', 'Nicholas Hoult']",250000000,747862775,72.644,7.522,2010s
+22,World War Z,"['Action', 'Drama', 'Horror', 'Science Fiction', 'Thriller']","['Brad Pitt', 'Mireille Enos', 'Daniella Kertesz', 'James Badge Dale', 'Ludi Boeken']",200000000,531865000,94.698,6.801,2010s
+23,Schindler's List,"['Drama', 'History', 'War']","['Liam Neeson', 'Ben Kingsley', 'Ralph Fiennes', 'Caroline Goodall', 'Jonathan Sagall']",22000000,321365567,42.346,8.569,1990s
+24,Rogue One: A Star Wars Story,"['Action', 'Adventure', 'Science Fiction']","['Felicity Jones', 'Diego Luna', 'Alan Tudyk', 'Donnie Yen', 'Jiang Wen']",200000000,1056057273,37.696,7.488,2010s
+25,Ready Player One,"['Science Fiction', 'Adventure', 'Action']","['Tye Sheridan', 'Olivia Cooke', 'Ben Mendelsohn', 'Lena Waithe', 'T.J. Miller']",175000000,582890172,82.179,7.613,2010s
+26,Man of Steel,"['Action', 'Adventure', 'Science Fiction']","['Henry Cavill', 'Amy Adams', 'Michael Shannon', 'Diane Lane', 'Russell Crowe']",225000000,668045518,76.864,6.603,2010s
+27,Spider-Man: Far From Home,"['Action', 'Adventure', 'Science Fiction']","['Tom Holland', 'Samuel L. Jackson', 'Jake Gyllenhaal', 'Marisa Tomei', 'Jon Favreau']",160000000,1131927996,85.837,7.461,2010s
+28,Star Wars: The Last Jedi,"['Adventure', 'Action', 'Science Fiction']","['Mark Hamill', 'Carrie Fisher', 'Adam Driver', 'Daisy Ridley', 'John Boyega']",200000000,1332698830,56.292,6.838,2010s
+29,Despicable Me,"['Family', 'Animation', 'Comedy', 'Crime']","['Steve Carell', 'Miranda Cosgrove', 'Dana Gaier', 'Elsie Fisher', 'Jason Segel']",69000000,533679475,82.079,7.223,2010s
+30,Catch Me If You Can,"['Drama', 'Crime']","['Leonardo DiCaprio', 'Tom Hanks', 'Christopher Walken', 'Martin Sheen', 'Nathalie Baye']",52000000,352114312,92.996,7.965,2000s
+31,Spider-Man 2,"['Action', 'Adventure', 'Fantasy']","['Tobey Maguire', 'Kirsten Dunst', 'James Franco', 'Alfred Molina', 'Rosemary Harris']",200000000,783766341,30.975,7.24,2000s
+32,Charlie and the Chocolate Factory,"['Adventure', 'Comedy', 'Family', 'Fantasy']","['Johnny Depp', 'Freddie Highmore', 'David Kelly', 'Helena Bonham Carter', 'Noah Taylor']",150000000,474968763,111.885,7.038,2000s
+33,Toy Story 3,"['Animation', 'Family', 'Comedy']","['Tom Hanks', 'Tim Allen', 'Joan Cusack', 'Don Rickles', 'Wallace Shawn']",200000000,1066969703,92.112,7.791,2010s
+34,Whiplash,"['Drama', 'Music']","['Miles Teller', 'J.K. Simmons', 'Paul Reiser', 'Melissa Benoist', 'Austin Stowell']",3300000,13092000,64.798,8.377,2010s
+35,The Departed,"['Drama', 'Thriller', 'Crime']","['Jack Nicholson', 'Leonardo DiCaprio', 'Matt Damon', 'Mark Wahlberg', 'Vera Farmiga']",90000000,291465000,33.208,8.165,2000s
+36,The Grand Budapest Hotel,"['Comedy', 'Drama']","['Ralph Fiennes', 'F. Murray Abraham', 'Mathieu Amalric', 'Adrien Brody', 'Willem Dafoe']",30000000,174600318,27.33,8.057,2010s
+37,Eternal Sunshine of the Spotless Mind,"['Science Fiction', 'Drama', 'Romance']","['Jim Carrey', 'Kate Winslet', 'Kirsten Dunst', 'Mark Ruffalo', 'Elijah Wood']",20000000,72258126,45.14,8.101,2000s
+38,Memento,"['Mystery', 'Thriller']","['Guy Pearce', 'Carrie-Anne Moss', 'Joe Pantoliano', 'Mark Boone Junior', 'Russ Fega']",9000000,39723096,23.077,8.19,2000s
+39,The Twilight Saga: Eclipse,"['Adventure', 'Fantasy', 'Drama', 'Romance']","['Kristen Stewart', 'Robert Pattinson', 'Taylor Lautner', 'Bryce Dallas Howard', 'Dakota Fanning']",68000000,698491347,111.054,6.221,2010s
+40,Saw,"['Horror', 'Mystery', 'Crime']","['Cary Elwes', 'Leigh Whannell', 'Danny Glover', 'Monica Potter', 'Ken Leung']",1200000,103911669,50.212,7.396,2000s
+41,Elysium,"['Science Fiction', 'Action', 'Drama', 'Thriller']","['Matt Damon', 'Jodie Foster', 'Sharlto Copley', 'Diego Luna', 'Wagner Moura']",115000000,286140700,35.35,6.494,2010s
+42,The Pianist,"['Drama', 'War']","['Adrien Brody', 'Thomas Kretschmann', 'Frank Finlay', 'Maureen Lipman', 'Emilia Fox']",35000000,120072577,39.289,8.383,2000s
+43,Snatch,"['Crime', 'Comedy']","['Jason Statham', 'Brad Pitt', 'Stephen Graham', 'Dennis Farina', 'Alan Ford']",10000000,83557872,27.314,7.802,2000s
+44,Shang-Chi and the Legend of the Ten Rings,"['Action', 'Adventure', 'Fantasy']","['Simu Liu', 'Tony Leung Chiu-wai', 'Awkwafina', ""Zhang Meng'er"", 'Fala Chen']",150000000,432243292,163.746,7.62,2020s
+45,Corpse Bride,"['Romance', 'Fantasy', 'Animation']","['Johnny Depp', 'Helena Bonham Carter', 'Emily Watson', 'Tracey Ullman', 'Paul Whitehouse']",40000000,118133252,90.016,7.515,2000s
+46,The King's Speech,"['Drama', 'History']","['Colin Firth', 'Geoffrey Rush', 'Helena Bonham Carter', 'Guy Pearce', 'Timothy Spall']",15000000,414211549,22.418,7.739,2010s
+47,Ghostbusters,"['Comedy', 'Fantasy']","['Bill Murray', 'Dan Aykroyd', 'Sigourney Weaver', 'Harold Ramis', 'Rick Moranis']",30000000,296187079,24.03,7.464,1980s
+48,The Hangover Part III,['Comedy'],"['Bradley Cooper', 'Ed Helms', 'Zach Galifianakis', 'Justin Bartha', 'Ken Jeong']",103000000,362000072,82.896,6.216,2010s
+49,Hotel Transylvania,"['Animation', 'Comedy', 'Family', 'Fantasy']","['Adam Sandler', 'Andy Samberg', 'Selena Gomez', 'Kevin James', 'Fran Drescher']",85000000,358375603,68.35,6.956,2010s
+50,The Batman,"['Crime', 'Mystery', 'Thriller']","['Robert Pattinson', 'Zoë Kravitz', 'Paul Dano', 'Jeffrey Wright', 'John Turturro']",185000000,770945583,244.137,7.7,2020s
+51,War for the Planet of the Apes,"['Drama', 'Science Fiction', 'War']","['Andy Serkis', 'Woody Harrelson', 'Steve Zahn', 'Karin Konoval', 'Michael Adamthwaite']",150000000,490719763,93.307,7.154,2010s
+52,Dallas Buyers Club,"['Drama', 'History']","['Matthew McConaughey', 'Jared Leto', 'Jennifer Garner', ""Denis O'Hare"", 'Steve Zahn']",5000000,55736588,14.126,7.933,2010s
+53,Mission: Impossible - Rogue Nation,"['Action', 'Adventure']","['Tom Cruise', 'Jeremy Renner', 'Simon Pegg', 'Rebecca Ferguson', 'Ving Rhames']",150000000,682716636,45.556,7.176,2010s
+54,The Equalizer,"['Thriller', 'Action', 'Crime']","['Denzel Washington', 'Marton Csokas', 'Chloë Grace Moretz', 'Johnny Skourtis', 'David Harbour']",55000000,192330738,57.464,7.236,2010s
+55,Annihilation,"['Science Fiction', 'Horror']","['Natalie Portman', 'Jennifer Jason Leigh', 'Gina Rodriguez', 'Tessa Thompson', 'Tuva Novotny']",40000000,43070915,32.067,6.397,2010s
+56,Minority Report,"['Action', 'Thriller', 'Science Fiction', 'Mystery']","['Tom Cruise', 'Colin Farrell', 'Samantha Morton', 'Max von Sydow', 'Peter Stormare']",102000000,358372926,27.909,7.333,2000s
+57,Mean Girls,['Comedy'],"['Lindsay Lohan', 'Rachel McAdams', 'Lacey Chabert', 'Amanda Seyfried', 'Lizzy Caplan']",17000000,130126277,59.221,7.178,2000s
+58,Arrival,"['Drama', 'Science Fiction', 'Mystery']","['Amy Adams', 'Jeremy Renner', 'Forest Whitaker', 'Michael Stuhlbarg', 'Tzi Ma']",47000000,203388186,48.394,7.58,2010s
+59,Thor: The Dark World,"['Action', 'Adventure', 'Fantasy']","['Chris Hemsworth', 'Natalie Portman', 'Tom Hiddleston', 'Anthony Hopkins', 'Christopher Eccleston']",170000000,644571402,77.568,6.548,2010s
+60,Split,"['Horror', 'Thriller']","['James McAvoy', 'Anya Taylor-Joy', 'Betty Buckley', 'Haley Lu Richardson', 'Jessica Sula']",9000000,278454358,79.234,7.333,2010s
+61,The Amazing Spider-Man,"['Action', 'Adventure', 'Fantasy']","['Andrew Garfield', 'Emma Stone', 'Rhys Ifans', 'Denis Leary', 'Martin Sheen']",215000000,757930663,102.818,6.684,2010s
+62,Deadpool 2,"['Action', 'Comedy', 'Adventure']","['Ryan Reynolds', 'Josh Brolin', 'Morena Baccarin', 'Julian Dennison', 'Zazie Beetz']",110000000,785896609,107.138,7.492,2010s
+63,The Hunger Games: Catching Fire,"['Adventure', 'Action', 'Science Fiction']","['Jennifer Lawrence', 'Josh Hutcherson', 'Liam Hemsworth', 'Woody Harrelson', 'Elizabeth Banks']",130000000,865011746,63.479,7.421,2010s
+64,Kill Bill: Vol. 1,"['Action', 'Crime']","['Uma Thurman', 'Lucy Liu', 'Vivica A. Fox', 'Daryl Hannah', 'David Carradine']",30000000,180906076,42.971,7.972,2000s
+65,The Intouchables,"['Drama', 'Comedy']","['François Cluzet', 'Omar Sy', 'Dominique Henry', 'Anne Le Ny', 'Clotilde Mollet']",13000000,426588510,62.777,8.275,2010s
+66,The Shining,"['Horror', 'Thriller']","['Jack Nicholson', 'Shelley Duvall', 'Scatman Crothers', 'Danny Lloyd', 'Philip Stone']",19000000,44781695,38.891,8.222,1980s
+67,Bohemian Rhapsody,"['Music', 'Drama', 'History']","['Rami Malek', 'Gwilym Lee', 'Ben Hardy', 'Joseph Mazzello', 'Lucy Boynton']",52000000,903992901,43.589,8.006,2010s
+68,Parasite,"['Comedy', 'Thriller', 'Drama']","['Song Kang-ho', 'Lee Sun-kyun', 'Cho Yeo-jeong', 'Choi Woo-shik', 'Park So-dam']",11363000,257591776,72.018,8.517,2010s
+69,The Imitation Game,"['History', 'Drama', 'Thriller', 'War']","['Benedict Cumberbatch', 'Keira Knightley', 'Matthew Goode', 'Rory Kinnear', 'Allen Leech']",14000000,233555708,42.83,8.01,2010s
+70,Get Out,"['Mystery', 'Thriller', 'Horror']","['Daniel Kaluuya', 'Allison Williams', 'Bradley Whitford', 'Caleb Landry Jones', 'Stephen Root']",4500000,255407969,48.356,7.618,2010s
+71,The Maze Runner,"['Action', 'Mystery', 'Science Fiction', 'Thriller']","[""Dylan O'Brien"", 'Kaya Scodelario', 'Ki Hong Lee', 'Aml Ameen', 'Blake Cooper']",34000000,348319861,129.213,7.172,2010s
+72,The Hangover,['Comedy'],"['Bradley Cooper', 'Ed Helms', 'Zach Galifianakis', 'Justin Bartha', 'Heather Graham']",35000000,469310836,113.06,7.31,2000s
+73,The Green Mile,"['Fantasy', 'Drama', 'Crime']","['Tom Hanks', 'David Morse', 'Bonnie Hunt', 'Michael Clarke Duncan', 'James Cromwell']",60000000,286801374,71.616,8.507,1990s
+74,Kingsman: The Secret Service,"['Crime', 'Comedy', 'Action', 'Adventure']","['Taron Egerton', 'Colin Firth', 'Samuel L. Jackson', 'Mark Strong', 'Sophie Cookson']",81000000,414351546,84.422,7.637,2010s
+75,The Empire Strikes Back,"['Adventure', 'Action', 'Science Fiction']","['Mark Hamill', 'Harrison Ford', 'Carrie Fisher', 'Billy Dee Williams', 'Anthony Daniels']",18000000,538400000,31.531,8.393,1980s
+76,Shrek,"['Animation', 'Comedy', 'Fantasy', 'Adventure', 'Family']","['Mike Myers', 'Eddie Murphy', 'Cameron Diaz', 'John Lithgow', 'Vincent Cassel']",60000000,487853320,215.364,7.72,2000s
+77,La La Land,"['Comedy', 'Drama', 'Romance', 'Music']","['Ryan Gosling', 'Emma Stone', 'John Legend', 'Rosemarie DeWitt', 'J.K. Simmons']",30000000,447407695,30.567,7.891,2010s
+78,The Twilight Saga: Eclipse,"['Adventure', 'Fantasy', 'Drama', 'Romance']","['Kristen Stewart', 'Robert Pattinson', 'Taylor Lautner', 'Bryce Dallas Howard', 'Dakota Fanning']",68000000,698491347,111.054,6.221,2010s
+79,Saw,"['Horror', 'Mystery', 'Crime']","['Cary Elwes', 'Leigh Whannell', 'Danny Glover', 'Monica Potter', 'Ken Leung']",1200000,103911669,50.212,7.396,2000s
+80,Elysium,"['Science Fiction', 'Action', 'Drama', 'Thriller']","['Matt Damon', 'Jodie Foster', 'Sharlto Copley', 'Diego Luna', 'Wagner Moura']",115000000,286140700,35.35,6.494,2010s
+81,The Pianist,"['Drama', 'War']","['Adrien Brody', 'Thomas Kretschmann', 'Frank Finlay', 'Maureen Lipman', 'Emilia Fox']",35000000,120072577,39.289,8.383,2000s
+82,Snatch,"['Crime', 'Comedy']","['Jason Statham', 'Brad Pitt', 'Stephen Graham', 'Dennis Farina', 'Alan Ford']",10000000,83557872,27.314,7.802,2000s
+83,Shang-Chi and the Legend of the Ten Rings,"['Action', 'Adventure', 'Fantasy']","['Simu Liu', 'Tony Leung Chiu-wai', 'Awkwafina', ""Zhang Meng'er"", 'Fala Chen']",150000000,432243292,163.746,7.62,2020s
+84,Corpse Bride,"['Romance', 'Fantasy', 'Animation']","['Johnny Depp', 'Helena Bonham Carter', 'Emily Watson', 'Tracey Ullman', 'Paul Whitehouse']",40000000,118133252,90.016,7.515,2000s
+85,The King's Speech,"['Drama', 'History']","['Colin Firth', 'Geoffrey Rush', 'Helena Bonham Carter', 'Guy Pearce', 'Timothy Spall']",15000000,414211549,22.418,7.739,2010s
+86,Ghostbusters,"['Comedy', 'Fantasy']","['Bill Murray', 'Dan Aykroyd', 'Sigourney Weaver', 'Harold Ramis', 'Rick Moranis']",30000000,296187079,24.03,7.464,1980s
+87,The Hangover Part III,['Comedy'],"['Bradley Cooper', 'Ed Helms', 'Zach Galifianakis', 'Justin Bartha', 'Ken Jeong']",103000000,362000072,82.896,6.216,2010s
+88,Hotel Transylvania,"['Animation', 'Comedy', 'Family', 'Fantasy']","['Adam Sandler', 'Andy Samberg', 'Selena Gomez', 'Kevin James', 'Fran Drescher']",85000000,358375603,68.35,6.956,2010s
+89,The Batman,"['Crime', 'Mystery', 'Thriller']","['Robert Pattinson', 'Zoë Kravitz', 'Paul Dano', 'Jeffrey Wright', 'John Turturro']",185000000,770945583,244.137,7.7,2020s
+90,War for the Planet of the Apes,"['Drama', 'Science Fiction', 'War']","['Andy Serkis', 'Woody Harrelson', 'Steve Zahn', 'Karin Konoval', 'Michael Adamthwaite']",150000000,490719763,93.307,7.154,2010s
+91,Dallas Buyers Club,"['Drama', 'History']","['Matthew McConaughey', 'Jared Leto', 'Jennifer Garner', ""Denis O'Hare"", 'Steve Zahn']",5000000,55736588,14.126,7.933,2010s
+92,Mission: Impossible - Rogue Nation,"['Action', 'Adventure']","['Tom Cruise', 'Jeremy Renner', 'Simon Pegg', 'Rebecca Ferguson', 'Ving Rhames']",150000000,682716636,45.556,7.176,2010s
+93,The Equalizer,"['Thriller', 'Action', 'Crime']","['Denzel Washington', 'Marton Csokas', 'Chloë Grace Moretz', 'Johnny Skourtis', 'David Harbour']",55000000,192330738,57.464,7.236,2010s
+94,Annihilation,"['Science Fiction', 'Horror']","['Natalie Portman', 'Jennifer Jason Leigh', 'Gina Rodriguez', 'Tessa Thompson', 'Tuva Novotny']",40000000,43070915,32.067,6.397,2010s
+95,Minority Report,"['Action', 'Thriller', 'Science Fiction', 'Mystery']","['Tom Cruise', 'Colin Farrell', 'Samantha Morton', 'Max von Sydow', 'Peter Stormare']",102000000,358372926,27.909,7.333,2000s
+96,Mean Girls,['Comedy'],"['Lindsay Lohan', 'Rachel McAdams', 'Lacey Chabert', 'Amanda Seyfried', 'Lizzy Caplan']",17000000,130126277,59.221,7.178,2000s
+97,Jojo Rabbit,"['Comedy', 'War', 'Drama']","['Roman Griffin Davis', 'Thomasin McKenzie', 'Scarlett Johansson', 'Taika Waititi', 'Sam Rockwell']",14000000,82468705,28.974,8.1,2010s
+98,Unbreakable,"['Thriller', 'Drama', 'Mystery']","['Bruce Willis', 'Samuel L. Jackson', 'Robin Wright', 'Spencer Treat Clark', 'Charlayne Woodard']",75000000,248118121,29.811,7.134,2000s
+99,The Bourne Identity,"['Action', 'Drama', 'Mystery', 'Thriller']","['Matt Damon', 'Franka Potente', 'Chris Cooper', 'Clive Owen', 'Brian Cox']",60000000,214034224,36.133,7.453,2000s
+100,A Bug's Life,"['Adventure', 'Animation', 'Comedy', 'Family']","['Dave Foley', 'Kevin Spacey', 'Julia Louis-Dreyfus', 'Hayden Panettiere', 'Phyllis Diller']",120000000,363258859,86.712,6.966,1990s
+101,Tenet,"['Action', 'Thriller', 'Science Fiction']","['John David Washington', 'Robert Pattinson', 'Elizabeth Debicki', 'Kenneth Branagh', 'Dimple Kapadia']",205000000,363129000,48.497,7.204,2020s
+102,The Nightmare Before Christmas,"['Fantasy', 'Animation', 'Family']","['Danny Elfman', 'Chris Sarandon', ""Catherine O'Hara"", 'William Hickey', 'Glenn Shadix']",24000000,75634409,72.356,7.839,1990s
+103,Howl's Moving Castle,"['Fantasy', 'Animation', 'Adventure']","['Chieko Baisho', 'Takuya Kimura', 'Akihiro Miwa', 'Tatsuya Gashûin', 'Ryunosuke Kamiki']",24000000,236049757,115.575,8.406,2000s
+104,Watchmen,"['Action', 'Mystery', 'Science Fiction']","['Malin Åkerman', 'Patrick Wilson', 'Billy Crudup', 'Matthew Goode', 'Jackie Earle Haley']",130000000,185258983,34.237,7.326,2000s
+105,The Twilight Saga: Breaking Dawn - Part 2,"['Adventure', 'Fantasy', 'Drama', 'Romance']","['Robert Pattinson', 'Kristen Stewart', 'Taylor Lautner', 'Peter Facinelli', 'Elizabeth Reaser']",120000000,829747654,102.724,6.472,2010s
+106,Alita: Battle Angel,"['Action', 'Science Fiction', 'Adventure']","['Rosa Salazar', 'Christoph Waltz', 'Jennifer Connelly', 'Mahershala Ali', 'Ed Skrein']",170000000,404980543,65.499,7.211,2010s
+107,Encanto,"['Animation', 'Comedy', 'Family', 'Fantasy']","['Stephanie Beatriz', 'María Cecilia Botero', 'John Leguizamo', 'Mauro Castillo', 'Jessica Darrow']",50000000,253000000,274.444,7.644,2020s
+108,Godzilla,"['Action', 'Drama', 'Science Fiction']","['Aaron Taylor-Johnson', 'Elizabeth Olsen', 'Juliette Binoche', 'Bryan Cranston', 'Ken Watanabe']",160000000,529076069,70.494,6.275,2010s
+109,Cruella,"['Comedy', 'Crime']","['Emma Stone', 'Emma Thompson', 'Joel Fry', 'Paul Walter Hauser', 'Mark Strong']",200000000,233503234,160.745,8.082,2020s
+110,We're the Millers,"['Comedy', 'Crime']","['Jennifer Aniston', 'Jason Sudeikis', 'Emma Roberts', 'Will Poulter', 'Kathryn Hahn']",37000000,269994119,47.295,6.806,2010s
+111,The Twilight Saga: Breaking Dawn - Part 1,"['Adventure', 'Fantasy', 'Romance']","['Kristen Stewart', 'Robert Pattinson', 'Taylor Lautner', 'Billy Burke', 'Peter Facinelli']",110000000,712171856,88.496,6.208,2010s
+112,The Mummy,"['Adventure', 'Action', 'Fantasy']","['Brendan Fraser', 'Rachel Weisz', 'John Hannah', 'Arnold Vosloo', 'Patricia Velásquez']",80000000,415885488,116.105,6.893,1990s
+113,Shrek the Third,"['Fantasy', 'Adventure', 'Animation', 'Comedy', 'Family']","['Mike Myers', 'Eddie Murphy', 'Cameron Diaz', 'Antonio Banderas', 'Julie Andrews']",160000000,813367380,113.599,6.3,2000s
+114,Indiana Jones and the Temple of Doom,"['Adventure', 'Action']","['Harrison Ford', 'Kate Capshaw', 'Ke Huy Quan', 'Amrish Puri', 'Roshan Seth']",28000000,333000000,31.353,7.295,1980s
+115,The Big Short,"['Comedy', 'Drama']","['Christian Bale', 'Steve Carell', 'Ryan Gosling', 'Brad Pitt', 'Melissa Leo']",28000000,133346506,25.034,7.336,2010s
+116,Birdman or (The Unexpected Virtue of Ignorance),"['Drama', 'Comedy']","['Michael Keaton', 'Emma Stone', 'Zach Galifianakis', 'Edward Norton', 'Andrea Riseborough']",18000000,103215094,33.359,7.47,2010s
+117,Divergent,"['Action', 'Adventure', 'Science Fiction']","['Shailene Woodley', 'Theo James', 'Zoë Kravitz', 'Miles Teller', 'Jai Courtney']",85000000,288747895,43.773,6.921,2010s
+118,Life Is Beautiful,"['Comedy', 'Drama']","['Roberto Benigni', 'Nicoletta Braschi', 'Giorgio Cantarini', 'Giustino Durano', 'Sergio Bini Bustric']",20000000,230098753,42.936,8.452,1990s
+119,American Sniper,"['War', 'Action']","['Bradley Cooper', 'Sienna Miller', 'Kyle Gallner', 'Cole Konis', 'Ben Reed']",58800000,542307423,77.467,7.432,2010s
+120,Blade Runner 2049,"['Science Fiction', 'Drama']","['Ryan Gosling', 'Harrison Ford', 'Ana de Armas', 'Sylvia Hoeks', 'Robin Wright']",150000000,259239658,71.029,7.532,2010s
+121,Once Upon a Time… in Hollywood,"['Comedy', 'Drama', 'Thriller']","['Leonardo DiCaprio', 'Brad Pitt', 'Margot Robbie', 'Emile Hirsch', 'Margaret Qualley']",95000000,374251247,42.488,7.436,2010s
+122,How to Train Your Dragon,"['Fantasy', 'Adventure', 'Animation', 'Family']","['Jay Baruchel', 'Gerard Butler', 'Craig Ferguson', 'America Ferrera', 'Jonah Hill']",165000000,494879471,65.95,7.805,2010s
+123,Edward Scissorhands,"['Fantasy', 'Drama', 'Romance']","['Johnny Depp', 'Winona Ryder', 'Dianne Wiest', 'Alan Arkin', 'Anthony Michael Hall']",20000000,53000000,37.694,7.716,1990s
+124,Incredibles 2,"['Action', 'Adventure', 'Animation', 'Family']","['Craig T. Nelson', 'Holly Hunter', 'Sarah Vowell', 'Huck Milner', 'Samuel L. Jackson']",200000000,1242805359,79.117,7.488,2010s
+125,X-Men: First Class,"['Action', 'Science Fiction', 'Adventure']","['James McAvoy', 'Michael Fassbender', 'Kevin Bacon', 'Rose Byrne', 'Jennifer Lawrence']",160000000,353624124,2.733,7.294,2010s
+126,A Clockwork Orange,"['Science Fiction', 'Drama']","['Malcolm McDowell', 'Patrick Magee', 'Adrienne Corri', 'Miriam Karlin', 'Michael Bates']",2200000,26589000,40.191,8.219,1970s
+127,The Curious Case of Benjamin Button,"['Drama', 'Fantasy', 'Romance']","['Brad Pitt', 'Cate Blanchett', 'Taraji P. Henson', 'Julia Ormond', 'Jason Flemyng']",150000000,335802786,50.5,7.577,2000s
+128,Back to the Future Part II,"['Adventure', 'Comedy', 'Science Fiction']","['Michael J. Fox', 'Christopher Lloyd', 'Lea Thompson', 'Thomas F. Wilson', 'Elisabeth Shue']",40000000,332000000,46.391,7.751,1980s
+129,The Terminator,"['Action', 'Thriller', 'Science Fiction']","['Arnold Schwarzenegger', 'Michael Biehn', 'Linda Hamilton', 'Paul Winfield', 'Lance Henriksen']",6400000,78371200,58.48,7.639,1980s
+130,John Wick: Chapter 2,"['Action', 'Thriller', 'Crime']","['Keanu Reeves', 'Common', 'Ian McShane', 'Laurence Fishburne', 'Riccardo Scamarcio']",40000000,171539887,362.533,7.31,2010s
+131,Drive,"['Drama', 'Thriller', 'Crime']","['Ryan Gosling', 'Carey Mulligan', 'Bryan Cranston', 'Albert Brooks', 'Oscar Isaac']",15000000,78054825,65.393,7.569,2010s
+132,The Shape of Water,"['Drama', 'Fantasy', 'Romance']","['Sally Hawkins', 'Doug Jones', 'Michael Shannon', 'Richard Jenkins', 'Octavia Spencer']",19500000,195333312,30.282,7.25,2010s
+133,Pacific Rim,"['Action', 'Science Fiction', 'Adventure']","['Charlie Hunnam', 'Rinko Kikuchi', 'Idris Elba', 'Max Martini', 'Clifton Collins Jr.']",180000000,411002906,93.028,6.865,2010s
+134,Wreck-It Ralph,"['Family', 'Animation', 'Comedy', 'Adventure']","['John C. Reilly', 'Sarah Silverman', 'Jack McBrayer', 'Jane Lynch', ""Ed O'Neill""]",165000000,471222889,93.574,7.323,2010s
+135,Terminator 2: Judgment Day,"['Action', 'Thriller', 'Science Fiction']","['Arnold Schwarzenegger', 'Linda Hamilton', 'Edward Furlong', 'Robert Patrick', 'Joe Morton']",102000000,520000000,74.273,8.095,1990s
+136,Iron Man 2,"['Adventure', 'Action', 'Science Fiction']","['Robert Downey Jr.', 'Gwyneth Paltrow', 'Don Cheadle', 'Scarlett Johansson', 'Sam Rockwell']",200000000,623933331,141.696,6.834,2010s
+137,Thor: Ragnarok,"['Action', 'Adventure', 'Fantasy', 'Science Fiction', 'Comedy']","['Chris Hemsworth', 'Tom Hiddleston', 'Cate Blanchett', 'Tessa Thompson', 'Jeff Goldblum']",180000000,855301806,104.484,7.599,2010s
+138,Jurassic World,"['Action', 'Adventure', 'Science Fiction', 'Thriller']","['Chris Pratt', 'Bryce Dallas Howard', 'Ty Simpkins', 'Nick Robinson', ""Vincent D'Onofrio""]",150000000,1671537444,89.253,6.679,2010s
+139,Batman Begins,"['Action', 'Crime', 'Drama']","['Christian Bale', 'Michael Caine', 'Liam Neeson', 'Katie Holmes', 'Gary Oldman']",150000000,374218673,49.273,7.695,2000s
+140,Inside Out,"['Animation', 'Family', 'Adventure', 'Drama', 'Comedy']","['Amy Poehler', 'Phyllis Smith', 'Bill Hader', 'Kaitlyn Dias', 'Richard Kind']",175000000,857611174,153.834,7.923,2010s
+141,Harry Potter and the Goblet of Fire,"['Adventure', 'Fantasy', 'Family']","['Daniel Radcliffe', 'Rupert Grint', 'Emma Watson', 'Brendan Gleeson', 'Robbie Coltrane']",150000000,895921036,210.489,7.817,2000s
+142,Se7en,"['Crime', 'Mystery', 'Thriller']","['Brad Pitt', 'Morgan Freeman', 'Gwyneth Paltrow', 'R. Lee Ermey', 'John C. McGinley']",33000000,327311859,43.017,8.4,1990s
+143,Pirates of the Caribbean: The Curse of the Black Pearl,"['Adventure', 'Fantasy', 'Action']","['Johnny Depp', 'Orlando Bloom', 'Keira Knightley', 'Geoffrey Rush', 'Jack Davenport']",140000000,655011224,175.596,7.784,2000s
+144,Harry Potter and the Deathly Hallows: Part 2,"['Fantasy', 'Adventure']","['Daniel Radcliffe', 'Rupert Grint', 'Emma Watson', 'Ralph Fiennes', 'Alan Rickman']",125000000,1341511219,169.297,8.111,2010s
+145,Wonder Woman,"['Action', 'Adventure', 'Fantasy']","['Gal Gadot', 'Chris Pine', 'Connie Nielsen', 'Robin Wright', 'Danny Huston']",149000000,822854286,73.397,7.239,2010s
+146,Star Wars,"['Adventure', 'Action', 'Science Fiction']","['Mark Hamill', 'Harrison Ford', 'Carrie Fisher', 'Peter Cushing', 'Alec Guinness']",11000000,775398007,83.757,8.208,1970s
+147,Up,"['Animation', 'Comedy', 'Family', 'Adventure']","['Ed Asner', 'Christopher Plummer', 'Jordan Nagai', 'Bob Peterson', 'Delroy Lindo']",175000000,735099082,99.807,7.943,2000s
+148,Ant-Man,"['Science Fiction', 'Action', 'Adventure']","['Paul Rudd', 'Michael Douglas', 'Evangeline Lilly', 'Bobby Cannavale', 'Corey Stoll']",130000000,519311965,128.802,7.083,2010s
+149,The Martian,"['Drama', 'Adventure', 'Science Fiction']","['Matt Damon', 'Jessica Chastain', 'Jeff Daniels', 'Sean Bean', 'Chiwetel Ejiofor']",108000000,630161890,45.748,7.672,2010s
+150,Star Wars: The Force Awakens,"['Adventure', 'Action', 'Science Fiction', 'Fantasy']","['Harrison Ford', 'Mark Hamill', 'Carrie Fisher', 'Adam Driver', 'Daisy Ridley']",245000000,2068223624,60.091,7.301,2010s
+151,Back to the Future,"['Adventure', 'Comedy', 'Science Fiction']","['Michael J. Fox', 'Christopher Lloyd', 'Lea Thompson', 'Crispin Glover', 'Thomas F. Wilson']",19000000,381109762,84.613,8.312,1980s
+152,The Godfather,"['Drama', 'Crime']","['Marlon Brando', 'Al Pacino', 'James Caan', 'Richard S. Castellano', 'Robert Duvall']",6000000,245066411,111.582,8.711,1970s
+153,Logan,"['Action', 'Drama', 'Science Fiction']","['Hugh Jackman', 'Dafne Keen', 'Patrick Stewart', 'Elizabeth Rodriguez', 'Boyd Holbrook']",97000000,619021436,78.28,7.815,2010s
+154,Harry Potter and the Order of the Phoenix,"['Adventure', 'Fantasy', 'Mystery']","['Daniel Radcliffe', 'Rupert Grint', 'Emma Watson', 'Imelda Staunton', 'Helena Bonham Carter']",150000000,938212738,190.561,7.687,2000s
+155,Finding Nemo,"['Animation', 'Family']","['Albert Brooks', 'Ellen DeGeneres', 'Alexander Gould', 'Willem Dafoe', 'Geoffrey Rush']",94000000,940335536,124.961,7.823,2000s
+156,Shutter Island,"['Drama', 'Thriller', 'Mystery']","['Leonardo DiCaprio', 'Mark Ruffalo', 'Ben Kingsley', 'Michelle Williams', 'Emily Mortimer']",80000000,294800000,46.067,8.197,2010s
+157,The Lord of the Rings: The Return of the King,"['Adventure', 'Fantasy', 'Action']","['Elijah Wood', 'Ian McKellen', 'Liv Tyler', 'Viggo Mortensen', 'Sean Astin']",94000000,1118888979,91.431,8.474,2000s
+158,The Wolf of Wall Street,"['Crime', 'Drama', 'Comedy']","['Leonardo DiCaprio', 'Jonah Hill', 'Margot Robbie', 'Matthew McConaughey', 'Kyle Chandler']",100000000,392000000,127.416,8.037,2010s
+159,Avengers: Age of Ultron,"['Action', 'Adventure', 'Science Fiction']","['Robert Downey Jr.', 'Chris Hemsworth', 'Mark Ruffalo', 'Chris Evans', 'Scarlett Johansson']",365000000,1405403694,136.706,7.281,2010s
+160,Captain America: Civil War,"['Adventure', 'Action', 'Science Fiction']","['Chris Evans', 'Robert Downey Jr.', 'Scarlett Johansson', 'Sebastian Stan', 'Anthony Mackie']",250000000,1153337496,101.111,7.44,2010s
+161,The Dark Knight Rises,"['Action', 'Crime', 'Drama', 'Thriller']","['Christian Bale', 'Michael Caine', 'Gary Oldman', 'Anne Hathaway', 'Tom Hardy']",250000000,1081041287,74.856,7.775,2010s
+162,Iron Man 3,"['Action', 'Adventure', 'Science Fiction']","['Robert Downey Jr.', 'Gwyneth Paltrow', 'Don Cheadle', 'Guy Pearce', 'Rebecca Hall']",200000000,1214811252,73.826,6.927,2010s
+163,Black Panther,"['Action', 'Adventure', 'Science Fiction']","['Chadwick Boseman', 'Michael B. Jordan', ""Lupita Nyong'o"", 'Danai Gurira', 'Martin Freeman']",200000000,1349926083,66.105,7.394,2010s
+164,Mad Max: Fury Road,"['Action', 'Adventure', 'Science Fiction']","['Tom Hardy', 'Charlize Theron', 'Nicholas Hoult', 'Hugh Keays-Byrne', 'Riley Keough']",150000000,378858340,68.972,7.574,2010s
+165,Doctor Strange,"['Action', 'Adventure', 'Fantasy']","['Benedict Cumberbatch', 'Chiwetel Ejiofor', 'Rachel McAdams', 'Benedict Wong', 'Mads Mikkelsen']",165000000,677796076,139.576,7.426,2010s
+166,The Hunger Games,"['Science Fiction', 'Adventure', 'Fantasy']","['Jennifer Lawrence', 'Josh Hutcherson', 'Liam Hemsworth', 'Woody Harrelson', 'Elizabeth Banks']",75000000,694394724,41.771,7.189,2010s
+167,Inglourious Basterds,"['Drama', 'Thriller', 'War']","['Brad Pitt', 'Mélanie Laurent', 'Christoph Waltz', 'Eli Roth', 'Michael Fassbender']",70000000,321457747,62.177,8.215,2000s
+168,Spider-Man: Homecoming,"['Action', 'Adventure', 'Science Fiction', 'Drama']","['Tom Holland', 'Michael Keaton', 'Robert Downey Jr.', 'Marisa Tomei', 'Jon Favreau']",175000000,880166924,106.68,7.351,2010s
+169,Harry Potter and the Chamber of Secrets,"['Adventure', 'Fantasy']","['Daniel Radcliffe', 'Rupert Grint', 'Emma Watson', 'Kenneth Branagh', 'John Cleese']",100000000,876688482,191.387,7.723,2000s
+170,Captain America: The First Avenger,"['Action', 'Adventure', 'Science Fiction']","['Chris Evans', 'Tommy Lee Jones', 'Hugo Weaving', 'Hayley Atwell', 'Sebastian Stan']",140000000,370569774,58.943,6.989,2010s
+171,Suicide Squad,"['Action', 'Adventure', 'Fantasy']","['Will Smith', 'Jared Leto', 'Margot Robbie', 'Joel Kinnaman', 'Viola Davis']",175000000,746846894,53.706,5.908,2010s
+172,The Lord of the Rings: The Two Towers,"['Adventure', 'Fantasy', 'Action']","['Elijah Wood', 'Ian McKellen', 'Liv Tyler', 'Viggo Mortensen', 'Sean Astin']",79000000,926287400,96.121,8.4,2000s
+173,Thor,"['Adventure', 'Fantasy', 'Action']","['Chris Hemsworth', 'Natalie Portman', 'Tom Hiddleston', 'Anthony Hopkins', 'Stellan Skarsgård']",150000000,449326618,98.003,6.768,2010s
+174,Guardians of the Galaxy Vol. 2,"['Adventure', 'Action', 'Science Fiction']","['Chris Pratt', 'Zoe Saldaña', 'Dave Bautista', 'Vin Diesel', 'Bradley Cooper']",200000000,863756051,100.761,7.623,2010s
+175,Harry Potter and the Prisoner of Azkaban,"['Adventure', 'Fantasy']","['Daniel Radcliffe', 'Rupert Grint', 'Emma Watson', 'Robbie Coltrane', 'Michael Gambon']",130000000,789804554,188.575,8.021,2000s
+176,Jojo Rabbit,"['Comedy', 'War', 'Drama']","['Roman Griffin Davis', 'Thomasin McKenzie', 'Scarlett Johansson', 'Taika Waititi', 'Sam Rockwell']",14000000,82468705,28.974,8.1,2010s
+177,Unbreakable,"['Thriller', 'Drama', 'Mystery']","['Bruce Willis', 'Samuel L. Jackson', 'Robin Wright', 'Spencer Treat Clark', 'Charlayne Woodard']",75000000,248118121,29.811,7.134,2000s
+178,The Bourne Identity,"['Action', 'Drama', 'Mystery', 'Thriller']","['Matt Damon', 'Franka Potente', 'Chris Cooper', 'Clive Owen', 'Brian Cox']",60000000,214034224,36.133,7.453,2000s
+179,A Bug's Life,"['Adventure', 'Animation', 'Comedy', 'Family']","['Dave Foley', 'Kevin Spacey', 'Julia Louis-Dreyfus', 'Hayden Panettiere', 'Phyllis Diller']",120000000,363258859,86.712,6.966,1990s
+180,Tenet,"['Action', 'Thriller', 'Science Fiction']","['John David Washington', 'Robert Pattinson', 'Elizabeth Debicki', 'Kenneth Branagh', 'Dimple Kapadia']",205000000,363129000,48.497,7.204,2020s
+181,The Nightmare Before Christmas,"['Fantasy', 'Animation', 'Family']","['Danny Elfman', 'Chris Sarandon', ""Catherine O'Hara"", 'William Hickey', 'Glenn Shadix']",24000000,75634409,72.356,7.839,1990s
+182,Howl's Moving Castle,"['Fantasy', 'Animation', 'Adventure']","['Chieko Baisho', 'Takuya Kimura', 'Akihiro Miwa', 'Tatsuya Gashûin', 'Ryunosuke Kamiki']",24000000,236049757,115.575,8.406,2000s
+183,Watchmen,"['Action', 'Mystery', 'Science Fiction']","['Malin Åkerman', 'Patrick Wilson', 'Billy Crudup', 'Matthew Goode', 'Jackie Earle Haley']",130000000,185258983,34.237,7.326,2000s
+184,The Twilight Saga: Breaking Dawn - Part 2,"['Adventure', 'Fantasy', 'Drama', 'Romance']","['Robert Pattinson', 'Kristen Stewart', 'Taylor Lautner', 'Peter Facinelli', 'Elizabeth Reaser']",120000000,829747654,102.724,6.472,2010s
+185,Alita: Battle Angel,"['Action', 'Science Fiction', 'Adventure']","['Rosa Salazar', 'Christoph Waltz', 'Jennifer Connelly', 'Mahershala Ali', 'Ed Skrein']",170000000,404980543,65.499,7.211,2010s
+186,Encanto,"['Animation', 'Comedy', 'Family', 'Fantasy']","['Stephanie Beatriz', 'María Cecilia Botero', 'John Leguizamo', 'Mauro Castillo', 'Jessica Darrow']",50000000,253000000,274.444,7.644,2020s
+187,Godzilla,"['Action', 'Drama', 'Science Fiction']","['Aaron Taylor-Johnson', 'Elizabeth Olsen', 'Juliette Binoche', 'Bryan Cranston', 'Ken Watanabe']",160000000,529076069,70.494,6.275,2010s
+188,Cruella,"['Comedy', 'Crime']","['Emma Stone', 'Emma Thompson', 'Joel Fry', 'Paul Walter Hauser', 'Mark Strong']",200000000,233503234,160.745,8.082,2020s
+189,We're the Millers,"['Comedy', 'Crime']","['Jennifer Aniston', 'Jason Sudeikis', 'Emma Roberts', 'Will Poulter', 'Kathryn Hahn']",37000000,269994119,47.295,6.806,2010s
+190,The Twilight Saga: Breaking Dawn - Part 1,"['Adventure', 'Fantasy', 'Romance']","['Kristen Stewart', 'Robert Pattinson', 'Taylor Lautner', 'Billy Burke', 'Peter Facinelli']",110000000,712171856,88.496,6.208,2010s
+191,The Mummy,"['Adventure', 'Action', 'Fantasy']","['Brendan Fraser', 'Rachel Weisz', 'John Hannah', 'Arnold Vosloo', 'Patricia Velásquez']",80000000,415885488,116.105,6.893,1990s
+192,Shrek the Third,"['Fantasy', 'Adventure', 'Animation', 'Comedy', 'Family']","['Mike Myers', 'Eddie Murphy', 'Cameron Diaz', 'Antonio Banderas', 'Julie Andrews']",160000000,813367380,113.599,6.3,2000s
+193,Indiana Jones and the Temple of Doom,"['Adventure', 'Action']","['Harrison Ford', 'Kate Capshaw', 'Ke Huy Quan', 'Amrish Puri', 'Roshan Seth']",28000000,333000000,31.353,7.295,1980s
+194,The Big Short,"['Comedy', 'Drama']","['Christian Bale', 'Steve Carell', 'Ryan Gosling', 'Brad Pitt', 'Melissa Leo']",28000000,133346506,25.034,7.336,2010s
+195,Ratatouille,"['Animation', 'Comedy', 'Family', 'Fantasy']","['Patton Oswalt', 'Ian Holm', 'Lou Romano', 'Brad Garrett', ""Peter O'Toole""]",150000000,623726000,144.574,7.797,2000s
+196,Frozen,"['Animation', 'Family', 'Adventure', 'Fantasy']","['Kristen Bell', 'Idina Menzel', 'Jonathan Groff', 'Frank Welker', 'Josh Gad']",150000000,1274219009,108.855,7.248,2010s
+197,Lucy,"['Action', 'Science Fiction']","['Scarlett Johansson', 'Morgan Freeman', 'Choi Min-sik', 'Amr Waked', 'Julian Rhind-Tutt']",40000000,458863600,60.096,6.431,2010s
+198,Zootopia,"['Animation', 'Adventure', 'Family', 'Comedy']","['Jason Bateman', 'Ginnifer Goodwin', 'Idris Elba', 'Jenny Slate', 'Nate Torrence']",150000000,1023784195,105.475,7.747,2010s
+199,Jurassic Park,"['Adventure', 'Science Fiction']","['Sam Neill', 'Laura Dern', 'Jeff Goldblum', 'Richard Attenborough', 'Bob Peck']",63000000,920100000,29.393,7.935,1990s
+200,Beauty and the Beast,"['Family', 'Fantasy', 'Romance']","['Emma Watson', 'Dan Stevens', 'Luke Evans', 'Josh Gad', 'Kevin Kline']",160000000,1263521126,75.713,6.964,2010s
+201,Pirates of the Caribbean: Dead Man's Chest,"['Adventure', 'Fantasy', 'Action']","['Johnny Depp', 'Orlando Bloom', 'Keira Knightley', 'Stellan Skarsgård', 'Bill Nighy']",200000000,1065659812,163.198,7.338,2000s
+202,The Silence of the Lambs,"['Crime', 'Drama', 'Thriller']","['Jodie Foster', 'Anthony Hopkins', 'Scott Glenn', 'Ted Levine', 'Anthony Heald']",19000000,272742922,11.194,8.346,1990s
+203,Now You See Me,"['Thriller', 'Crime']","['Woody Harrelson', 'Morgan Freeman', 'Jesse Eisenberg', 'Isla Fisher', 'Mark Ruffalo']",75000000,351723989,53.599,7.341,2010s
+204,Big Hero 6,"['Adventure', 'Family', 'Animation', 'Action', 'Comedy']","['Scott Adsit', 'Ryan Potter', 'Daniel Henney', 'T.J. Miller', 'Jamie Chung']",165000000,657827828,154.315,7.74,2010s
+205,The Hunger Games: Mockingjay - Part 1,"['Science Fiction', 'Adventure', 'Thriller']","['Jennifer Lawrence', 'Josh Hutcherson', 'Liam Hemsworth', 'Woody Harrelson', 'Elizabeth Banks']",125000000,755356711,104.222,6.801,2010s
+206,Venom,"['Science Fiction', 'Action']","['Tom Hardy', 'Michelle Williams', 'Riz Ahmed', 'Scott Haze', 'Reid Scott']",116000000,855013954,82.104,6.83,2010s
+207,I Am Legend,"['Drama', 'Science Fiction', 'Thriller']","['Will Smith', 'Alice Braga', 'Charlie Tahan', 'Dash Mihok', 'Salli Richardson-Whitfield']",150000000,585410052,78.194,7.198,2000s
+208,Baby Driver,"['Action', 'Crime']","['Ansel Elgort', 'Kevin Spacey', 'Lily James', 'Jon Hamm', 'Jamie Foxx']",34000000,226945087,48.6,7.457,2010s
+209,Spirited Away,"['Animation', 'Family', 'Fantasy']","['Rumi Hiiragi', 'Miyu Irino', 'Mari Natsuki', 'Takashi Naito', 'Yasuko Sawaguchi']",19000000,274925095,106.257,8.54,2000s
+210,Captain Marvel,"['Action', 'Adventure', 'Science Fiction']","['Brie Larson', 'Samuel L. Jackson', 'Ben Mendelsohn', 'Jude Law', 'Annette Bening']",152000000,1131416446,66.972,6.863,2010s
+211,Return of the Jedi,"['Adventure', 'Action', 'Science Fiction']","['Mark Hamill', 'Harrison Ford', 'Carrie Fisher', 'Billy Dee Williams', 'Anthony Daniels']",32350000,572700000,32.993,7.889,1980s
+212,Gravity,"['Science Fiction', 'Thriller', 'Drama']","['Sandra Bullock', 'George Clooney', 'Ed Harris', 'Orto Ignatiussen', 'Phaldut Sharma']",105000000,723192705,20.744,7.16,2010s
+213,Shutter Island,"['Drama', 'Thriller', 'Mystery']","['Leonardo DiCaprio', 'Mark Ruffalo', 'Ben Kingsley', 'Michelle Williams', 'Emily Mortimer']",80000000,294800000,46.067,8.197,2010s
+214,The Lord of the Rings: The Return of the King,"['Adventure', 'Fantasy', 'Action']","['Elijah Wood', 'Ian McKellen', 'Liv Tyler', 'Viggo Mortensen', 'Sean Astin']",94000000,1118888979,91.431,8.474,2000s
+215,The Wolf of Wall Street,"['Crime', 'Drama', 'Comedy']","['Leonardo DiCaprio', 'Jonah Hill', 'Margot Robbie', 'Matthew McConaughey', 'Kyle Chandler']",100000000,392000000,127.416,8.037,2010s
+216,Avengers: Age of Ultron,"['Action', 'Adventure', 'Science Fiction']","['Robert Downey Jr.', 'Chris Hemsworth', 'Mark Ruffalo', 'Chris Evans', 'Scarlett Johansson']",365000000,1405403694,136.706,7.281,2010s
+217,Captain America: Civil War,"['Adventure', 'Action', 'Science Fiction']","['Chris Evans', 'Robert Downey Jr.', 'Scarlett Johansson', 'Sebastian Stan', 'Anthony Mackie']",250000000,1153337496,101.111,7.44,2010s
+218,The Dark Knight Rises,"['Action', 'Crime', 'Drama', 'Thriller']","['Christian Bale', 'Michael Caine', 'Gary Oldman', 'Anne Hathaway', 'Tom Hardy']",250000000,1081041287,74.856,7.775,2010s
+219,Iron Man 3,"['Action', 'Adventure', 'Science Fiction']","['Robert Downey Jr.', 'Gwyneth Paltrow', 'Don Cheadle', 'Guy Pearce', 'Rebecca Hall']",200000000,1214811252,73.826,6.927,2010s
+220,Black Panther,"['Action', 'Adventure', 'Science Fiction']","['Chadwick Boseman', 'Michael B. Jordan', ""Lupita Nyong'o"", 'Danai Gurira', 'Martin Freeman']",200000000,1349926083,66.105,7.394,2010s
+221,Mad Max: Fury Road,"['Action', 'Adventure', 'Science Fiction']","['Tom Hardy', 'Charlize Theron', 'Nicholas Hoult', 'Hugh Keays-Byrne', 'Riley Keough']",150000000,378858340,68.972,7.574,2010s
+222,Doctor Strange,"['Action', 'Adventure', 'Fantasy']","['Benedict Cumberbatch', 'Chiwetel Ejiofor', 'Rachel McAdams', 'Benedict Wong', 'Mads Mikkelsen']",165000000,677796076,139.576,7.426,2010s
+223,The Hunger Games,"['Science Fiction', 'Adventure', 'Fantasy']","['Jennifer Lawrence', 'Josh Hutcherson', 'Liam Hemsworth', 'Woody Harrelson', 'Elizabeth Banks']",75000000,694394724,41.771,7.189,2010s
+224,Inglourious Basterds,"['Drama', 'Thriller', 'War']","['Brad Pitt', 'Mélanie Laurent', 'Christoph Waltz', 'Eli Roth', 'Michael Fassbender']",70000000,321457747,62.177,8.215,2000s
+225,Spider-Man: Homecoming,"['Action', 'Adventure', 'Science Fiction', 'Drama']","['Tom Holland', 'Michael Keaton', 'Robert Downey Jr.', 'Marisa Tomei', 'Jon Favreau']",175000000,880166924,106.68,7.351,2010s
+226,Harry Potter and the Chamber of Secrets,"['Adventure', 'Fantasy']","['Daniel Radcliffe', 'Rupert Grint', 'Emma Watson', 'Kenneth Branagh', 'John Cleese']",100000000,876688482,191.387,7.723,2000s
+227,Captain America: The First Avenger,"['Action', 'Adventure', 'Science Fiction']","['Chris Evans', 'Tommy Lee Jones', 'Hugo Weaving', 'Hayley Atwell', 'Sebastian Stan']",140000000,370569774,58.943,6.989,2010s
+228,Suicide Squad,"['Action', 'Adventure', 'Fantasy']","['Will Smith', 'Jared Leto', 'Margot Robbie', 'Joel Kinnaman', 'Viola Davis']",175000000,746846894,53.706,5.908,2010s
+229,The Lord of the Rings: The Two Towers,"['Adventure', 'Fantasy', 'Action']","['Elijah Wood', 'Ian McKellen', 'Liv Tyler', 'Viggo Mortensen', 'Sean Astin']",79000000,926287400,96.121,8.4,2000s
+230,Thor,"['Adventure', 'Fantasy', 'Action']","['Chris Hemsworth', 'Natalie Portman', 'Tom Hiddleston', 'Anthony Hopkins', 'Stellan Skarsgård']",150000000,449326618,98.003,6.768,2010s
+231,Guardians of the Galaxy Vol. 2,"['Adventure', 'Action', 'Science Fiction']","['Chris Pratt', 'Zoe Saldaña', 'Dave Bautista', 'Vin Diesel', 'Bradley Cooper']",200000000,863756051,100.761,7.623,2010s
+232,Harry Potter and the Prisoner of Azkaban,"['Adventure', 'Fantasy']","['Daniel Radcliffe', 'Rupert Grint', 'Emma Watson', 'Robbie Coltrane', 'Michael Gambon']",130000000,789804554,188.575,8.021,2000s
+233,The Pursuit of Happyness,['Drama'],"['Will Smith', 'Jaden Smith', 'Thandiwe Newton', 'Brian Howe', 'James Karen']",55000000,307077295,40.74,7.902,2000s
+234,Black Widow,"['Action', 'Adventure', 'Science Fiction']","['Scarlett Johansson', 'Florence Pugh', 'Rachel Weisz', 'David Harbour', 'Ray Winstone']",200000000,379751655,98.472,7.348,2020s
+235,Ice Age: The Meltdown,"['Animation', 'Family', 'Comedy', 'Adventure']","['Ray Romano', 'John Leguizamo', 'Denis Leary', 'Queen Latifah', 'Seann William Scott']",80000000,660998756,85.372,6.681,2000s
+236,Mission: Impossible - Ghost Protocol,"['Action', 'Thriller', 'Adventure']","['Tom Cruise', 'Paula Patton', 'Simon Pegg', 'Jeremy Renner', 'Michael Nyqvist']",145000000,694713380,53.962,7.053,2010s
+237,The Fast and the Furious,"['Action', 'Crime', 'Thriller']","['Paul Walker', 'Vin Diesel', 'Michelle Rodriguez', 'Jordana Brewster', 'Rick Yune']",38000000,207283925,13.01,6.941,2000s
+238,Requiem for a Dream,"['Crime', 'Drama']","['Ellen Burstyn', 'Jared Leto', 'Jennifer Connelly', 'Marlon Wayans', 'Christopher McDonald']",4500000,7390108,11.713,8.033,2000s
+239,Frozen II,"['Family', 'Animation', 'Adventure', 'Comedy', 'Fantasy']","['Idina Menzel', 'Kristen Bell', 'Josh Gad', 'Jonathan Groff', 'Sterling K. Brown']",150000000,1450026933,118.586,7.28,2010s
+240,Indiana Jones and the Last Crusade,"['Adventure', 'Action']","['Harrison Ford', 'Sean Connery', 'Denholm Elliott', 'Alison Doody', 'John Rhys-Davies']",48000000,474171806,41.327,7.8,1980s
+241,Into the Wild,"['Adventure', 'Drama']","['Emile Hirsch', 'Marcia Gay Harden', 'William Hurt', 'Jena Malone', 'Brian H. Dierker']",15000000,56255142,48.25,7.814,2000s
+242,The Matrix Revolutions,"['Adventure', 'Action', 'Thriller', 'Science Fiction']","['Keanu Reeves', 'Laurence Fishburne', 'Carrie-Anne Moss', 'Hugo Weaving', 'Jada Pinkett Smith']",150000000,424988211,42.873,6.704,2000s
+243,Toy Story 4,"['Family', 'Adventure', 'Animation', 'Comedy', 'Fantasy']","['Tom Hanks', 'Tim Allen', 'Annie Potts', 'Tony Hale', 'Keegan-Michael Key']",175000000,1073394593,81.827,7.532,2010s
+244,Trainspotting,"['Drama', 'Crime']","['Ewan McGregor', 'Ewen Bremner', 'Jonny Lee Miller', 'Robert Carlyle', 'Kelly Macdonald']",4000000,16491080,21.232,7.972,1990s
+245,The Wolverine,"['Action', 'Science Fiction', 'Adventure', 'Fantasy']","['Hugh Jackman', 'Tao Okamoto', 'Rila Fukushima', 'Hiroyuki Sanada', 'Famke Janssen']",120000000,415440673,13.349,6.392,2010s
+246,Dune,"['Science Fiction', 'Adventure']","['Timothée Chalamet', 'Rebecca Ferguson', 'Oscar Isaac', 'Josh Brolin', 'Stellan Skarsgård']",165000000,402027830,116.047,7.803,2020s
+247,X-Men: The Last Stand,"['Adventure', 'Action', 'Science Fiction', 'Thriller']","['Famke Janssen', 'Hugh Jackman', 'Anna Paquin', 'Halle Berry', 'Patrick Stewart']",210000000,459359555,1.968,6.404,2000s
+248,Venom: Let There Be Carnage,"['Science Fiction', 'Action', 'Adventure']","['Tom Hardy', 'Woody Harrelson', 'Michelle Williams', 'Naomie Harris', 'Reid Scott']",110000000,506863592,190.053,6.871,2020s
+249,Godzilla vs. Kong,"['Action', 'Fantasy', 'Science Fiction']","['Alexander Skarsgård', 'Millie Bobby Brown', 'Rebecca Hall', 'Brian Tyree Henry', 'Shun Oguri']",200000000,470116094,222.824,7.688,2020s
+250,Fantastic Beasts and Where to Find Them,"['Fantasy', 'Adventure', 'Family']","['Eddie Redmayne', 'Katherine Waterston', 'Dan Fogler', 'Alison Sudol', 'Colin Farrell']",180000000,809342332,56.699,7.338,2010s
+251,Harry Potter and the Half-Blood Prince,"['Adventure', 'Fantasy']","['Daniel Radcliffe', 'Rupert Grint', 'Emma Watson', 'Michael Gambon', 'Tom Felton']",250000000,933959197,209.242,7.698,2000s
+252,It,"['Horror', 'Fantasy']","['Jaeden Martell', 'Bill Skarsgård', 'Jeremy Ray Taylor', 'Sophia Lillis', 'Finn Wolfhard']",35000000,701842551,68.484,7.236,2010s
+253,Harry Potter and the Deathly Hallows: Part 1,"['Adventure', 'Fantasy']","['Daniel Radcliffe', 'Rupert Grint', 'Emma Watson', 'Helena Bonham Carter', 'Robbie Coltrane']",250000000,954305868,147.169,7.767,2010s
+254,Captain America: The Winter Soldier,"['Action', 'Adventure', 'Science Fiction']","['Chris Evans', 'Scarlett Johansson', 'Sebastian Stan', 'Anthony Mackie', 'Cobie Smulders']",170000000,714766572,49.046,7.676,2010s
+255,Spider-Man: No Way Home,"['Action', 'Adventure', 'Science Fiction']","['Tom Holland', 'Zendaya', 'Benedict Cumberbatch', 'Jacob Batalon', 'Jon Favreau']",200000000,1921847111,400.359,8.009,2020s
+256,John Wick,"['Action', 'Thriller']","['Keanu Reeves', 'Michael Nyqvist', 'Ian McShane', 'John Leguizamo', 'Willem Dafoe']",20000000,88761661,231.342,7.402,2010s
+257,Coco,"['Family', 'Animation', 'Fantasy', 'Music', 'Comedy', 'Adventure']","['Anthony Gonzalez', 'Gael García Bernal', 'Benjamin Bratt', 'Alanna Ubach', 'Renée Victor']",175000000,800526015,144.051,8.225,2010s
+258,Spider-Man,"['Fantasy', 'Action']","['Tobey Maguire', 'Willem Dafoe', 'Kirsten Dunst', 'James Franco', 'Cliff Robertson']",139000000,821708551,86.918,7.266,2000s
+259,The Hobbit: An Unexpected Journey,"['Adventure', 'Fantasy', 'Action']","['Ian McKellen', 'Martin Freeman', 'Richard Armitage', 'Graham McTavish', 'Aidan Turner']",250000000,1021103568,80.461,7.334,2010s
+260,WALL·E,"['Animation', 'Family', 'Science Fiction']","['Ben Burtt', 'Elissa Knight', 'Jeff Garlin', 'Fred Willard', 'John Ratzenberger']",180000000,521311860,85.518,8.075,2000s
+261,Gone Girl,"['Mystery', 'Thriller', 'Drama']","['Ben Affleck', 'Rosamund Pike', 'Neil Patrick Harris', 'Tyler Perry', 'Carrie Coon']",61000000,369330363,50.802,7.892,2010s
+262,The Revenant,"['Western', 'Drama', 'Adventure']","['Leonardo DiCaprio', 'Tom Hardy', 'Domhnall Gleeson', 'Will Poulter', 'Forrest Goodluck']",135000000,532950503,47.12,7.521,2010s
+263,Batman v Superman: Dawn of Justice,"['Action', 'Adventure', 'Fantasy']","['Ben Affleck', 'Henry Cavill', 'Jesse Eisenberg', 'Gal Gadot', 'Amy Adams']",250000000,873637528,79.6,5.943,2010s
+264,"Monsters, Inc.","['Animation', 'Comedy', 'Family']","['John Goodman', 'Billy Crystal', 'Mary Gibbs', 'Steve Buscemi', 'James Coburn']",115000000,579707738,176.233,7.829,2000s
+265,Toy Story,"['Animation', 'Adventure', 'Family', 'Comedy']","['Tom Hanks', 'Tim Allen', 'Don Rickles', 'Jim Varney', 'Wallace Shawn']",30000000,373554033,127.999,7.968,1990s
+266,The Lion King,"['Family', 'Animation', 'Drama']","['Jonathan Taylor Thomas', 'Matthew Broderick', 'James Earl Jones', 'Jeremy Irons', 'Moira Kelly']",45000000,763455561,145.95,8.258,1990s
+267,Gladiator,"['Action', 'Drama', 'Adventure']","['Russell Crowe', 'Joaquin Phoenix', 'Connie Nielsen', 'Oliver Reed', 'Richard Harris']",103000000,465361176,50.868,8.205,2000s
+268,The Incredibles,"['Action', 'Adventure', 'Animation', 'Family']","['Craig T. Nelson', 'Holly Hunter', 'Sarah Vowell', 'Spencer Fox', 'Jason Lee']",92000000,631442092,75.887,7.701,2000s
+269,The Truman Show,"['Comedy', 'Drama']","['Jim Carrey', 'Laura Linney', 'Noah Emmerich', 'Natascha McElhone', 'Holland Taylor']",60000000,264118201,54.379,8.129,1990s
+270,Saving Private Ryan,"['Drama', 'History', 'War']","['Tom Hanks', 'Tom Sizemore', 'Edward Burns', 'Matt Damon', 'Barry Pepper']",70000000,481840909,84.065,8.207,1990s
+271,The Prestige,"['Drama', 'Mystery', 'Science Fiction']","['Hugh Jackman', 'Christian Bale', 'Michael Caine', 'Scarlett Johansson', 'Rebecca Hall']",40000000,109676311,39.109,8.203,2000s
+272,X-Men: Days of Future Past,"['Action', 'Adventure', 'Science Fiction']","['Hugh Jackman', 'James McAvoy', 'Michael Fassbender', 'Jennifer Lawrence', 'Nicholas Hoult']",250000000,747862775,72.644,7.522,2010s
+273,World War Z,"['Action', 'Drama', 'Horror', 'Science Fiction', 'Thriller']","['Brad Pitt', 'Mireille Enos', 'Daniella Kertesz', 'James Badge Dale', 'Ludi Boeken']",200000000,531865000,94.698,6.801,2010s
+274,Schindler's List,"['Drama', 'History', 'War']","['Liam Neeson', 'Ben Kingsley', 'Ralph Fiennes', 'Caroline Goodall', 'Jonathan Sagall']",22000000,321365567,42.346,8.569,1990s
+275,Rogue One: A Star Wars Story,"['Action', 'Adventure', 'Science Fiction']","['Felicity Jones', 'Diego Luna', 'Alan Tudyk', 'Donnie Yen', 'Jiang Wen']",200000000,1056057273,37.696,7.488,2010s
+276,Ready Player One,"['Science Fiction', 'Adventure', 'Action']","['Tye Sheridan', 'Olivia Cooke', 'Ben Mendelsohn', 'Lena Waithe', 'T.J. Miller']",175000000,582890172,82.179,7.613,2010s
+277,Man of Steel,"['Action', 'Adventure', 'Science Fiction']","['Henry Cavill', 'Amy Adams', 'Michael Shannon', 'Diane Lane', 'Russell Crowe']",225000000,668045518,76.864,6.603,2010s
+278,Spider-Man: Far From Home,"['Action', 'Adventure', 'Science Fiction']","['Tom Holland', 'Samuel L. Jackson', 'Jake Gyllenhaal', 'Marisa Tomei', 'Jon Favreau']",160000000,1131927996,85.837,7.461,2010s
+279,Star Wars: The Last Jedi,"['Adventure', 'Action', 'Science Fiction']","['Mark Hamill', 'Carrie Fisher', 'Adam Driver', 'Daisy Ridley', 'John Boyega']",200000000,1332698830,56.292,6.838,2010s
+280,Despicable Me,"['Family', 'Animation', 'Comedy', 'Crime']","['Steve Carell', 'Miranda Cosgrove', 'Dana Gaier', 'Elsie Fisher', 'Jason Segel']",69000000,533679475,82.079,7.223,2010s
+281,Catch Me If You Can,"['Drama', 'Crime']","['Leonardo DiCaprio', 'Tom Hanks', 'Christopher Walken', 'Martin Sheen', 'Nathalie Baye']",52000000,352114312,92.996,7.965,2000s
+282,Spider-Man 2,"['Action', 'Adventure', 'Fantasy']","['Tobey Maguire', 'Kirsten Dunst', 'James Franco', 'Alfred Molina', 'Rosemary Harris']",200000000,783766341,30.975,7.24,2000s
+283,Charlie and the Chocolate Factory,"['Adventure', 'Comedy', 'Family', 'Fantasy']","['Johnny Depp', 'Freddie Highmore', 'David Kelly', 'Helena Bonham Carter', 'Noah Taylor']",150000000,474968763,111.885,7.038,2000s
+284,Toy Story 3,"['Animation', 'Family', 'Comedy']","['Tom Hanks', 'Tim Allen', 'Joan Cusack', 'Don Rickles', 'Wallace Shawn']",200000000,1066969703,92.112,7.791,2010s
+285,Whiplash,"['Drama', 'Music']","['Miles Teller', 'J.K. Simmons', 'Paul Reiser', 'Melissa Benoist', 'Austin Stowell']",3300000,13092000,64.798,8.377,2010s
+286,The Departed,"['Drama', 'Thriller', 'Crime']","['Jack Nicholson', 'Leonardo DiCaprio', 'Matt Damon', 'Mark Wahlberg', 'Vera Farmiga']",90000000,291465000,33.208,8.165,2000s
+287,The Grand Budapest Hotel,"['Comedy', 'Drama']","['Ralph Fiennes', 'F. Murray Abraham', 'Mathieu Amalric', 'Adrien Brody', 'Willem Dafoe']",30000000,174600318,27.33,8.057,2010s
+288,Eternal Sunshine of the Spotless Mind,"['Science Fiction', 'Drama', 'Romance']","['Jim Carrey', 'Kate Winslet', 'Kirsten Dunst', 'Mark Ruffalo', 'Elijah Wood']",20000000,72258126,45.14,8.101,2000s
+289,Memento,"['Mystery', 'Thriller']","['Guy Pearce', 'Carrie-Anne Moss', 'Joe Pantoliano', 'Mark Boone Junior', 'Russ Fega']",9000000,39723096,23.077,8.19,2000s
+290,Iron Man 2,"['Adventure', 'Action', 'Science Fiction']","['Robert Downey Jr.', 'Gwyneth Paltrow', 'Don Cheadle', 'Scarlett Johansson', 'Sam Rockwell']",200000000,623933331,141.696,6.834,2010s
+291,Thor: Ragnarok,"['Action', 'Adventure', 'Fantasy', 'Science Fiction', 'Comedy']","['Chris Hemsworth', 'Tom Hiddleston', 'Cate Blanchett', 'Tessa Thompson', 'Jeff Goldblum']",180000000,855301806,104.484,7.599,2010s
+292,Jurassic World,"['Action', 'Adventure', 'Science Fiction', 'Thriller']","['Chris Pratt', 'Bryce Dallas Howard', 'Ty Simpkins', 'Nick Robinson', ""Vincent D'Onofrio""]",150000000,1671537444,89.253,6.679,2010s
+293,Batman Begins,"['Action', 'Crime', 'Drama']","['Christian Bale', 'Michael Caine', 'Liam Neeson', 'Katie Holmes', 'Gary Oldman']",150000000,374218673,49.273,7.695,2000s
+294,Inside Out,"['Animation', 'Family', 'Adventure', 'Drama', 'Comedy']","['Amy Poehler', 'Phyllis Smith', 'Bill Hader', 'Kaitlyn Dias', 'Richard Kind']",175000000,857611174,153.834,7.923,2010s
+295,Harry Potter and the Goblet of Fire,"['Adventure', 'Fantasy', 'Family']","['Daniel Radcliffe', 'Rupert Grint', 'Emma Watson', 'Brendan Gleeson', 'Robbie Coltrane']",150000000,895921036,210.489,7.817,2000s
+296,Se7en,"['Crime', 'Mystery', 'Thriller']","['Brad Pitt', 'Morgan Freeman', 'Gwyneth Paltrow', 'R. Lee Ermey', 'John C. McGinley']",33000000,327311859,43.017,8.4,1990s
+297,Pirates of the Caribbean: The Curse of the Black Pearl,"['Adventure', 'Fantasy', 'Action']","['Johnny Depp', 'Orlando Bloom', 'Keira Knightley', 'Geoffrey Rush', 'Jack Davenport']",140000000,655011224,175.596,7.784,2000s
+298,Harry Potter and the Deathly Hallows: Part 2,"['Fantasy', 'Adventure']","['Daniel Radcliffe', 'Rupert Grint', 'Emma Watson', 'Ralph Fiennes', 'Alan Rickman']",125000000,1341511219,169.297,8.111,2010s
+299,Wonder Woman,"['Action', 'Adventure', 'Fantasy']","['Gal Gadot', 'Chris Pine', 'Connie Nielsen', 'Robin Wright', 'Danny Huston']",149000000,822854286,73.397,7.239,2010s
+300,Star Wars,"['Adventure', 'Action', 'Science Fiction']","['Mark Hamill', 'Harrison Ford', 'Carrie Fisher', 'Peter Cushing', 'Alec Guinness']",11000000,775398007,83.757,8.208,1970s
+301,Up,"['Animation', 'Comedy', 'Family', 'Adventure']","['Ed Asner', 'Christopher Plummer', 'Jordan Nagai', 'Bob Peterson', 'Delroy Lindo']",175000000,735099082,99.807,7.943,2000s
+302,Ant-Man,"['Science Fiction', 'Action', 'Adventure']","['Paul Rudd', 'Michael Douglas', 'Evangeline Lilly', 'Bobby Cannavale', 'Corey Stoll']",130000000,519311965,128.802,7.083,2010s
+303,The Martian,"['Drama', 'Adventure', 'Science Fiction']","['Matt Damon', 'Jessica Chastain', 'Jeff Daniels', 'Sean Bean', 'Chiwetel Ejiofor']",108000000,630161890,45.748,7.672,2010s
+304,Star Wars: The Force Awakens,"['Adventure', 'Action', 'Science Fiction', 'Fantasy']","['Harrison Ford', 'Mark Hamill', 'Carrie Fisher', 'Adam Driver', 'Daisy Ridley']",245000000,2068223624,60.091,7.301,2010s
+305,Back to the Future,"['Adventure', 'Comedy', 'Science Fiction']","['Michael J. Fox', 'Christopher Lloyd', 'Lea Thompson', 'Crispin Glover', 'Thomas F. Wilson']",19000000,381109762,84.613,8.312,1980s
+306,The Godfather,"['Drama', 'Crime']","['Marlon Brando', 'Al Pacino', 'James Caan', 'Richard S. Castellano', 'Robert Duvall']",6000000,245066411,111.582,8.711,1970s
+307,Logan,"['Action', 'Drama', 'Science Fiction']","['Hugh Jackman', 'Dafne Keen', 'Patrick Stewart', 'Elizabeth Rodriguez', 'Boyd Holbrook']",97000000,619021436,78.28,7.815,2010s
+308,Harry Potter and the Order of the Phoenix,"['Adventure', 'Fantasy', 'Mystery']","['Daniel Radcliffe', 'Rupert Grint', 'Emma Watson', 'Imelda Staunton', 'Helena Bonham Carter']",150000000,938212738,190.561,7.687,2000s
+309,Finding Nemo,"['Animation', 'Family']","['Albert Brooks', 'Ellen DeGeneres', 'Alexander Gould', 'Willem Dafoe', 'Geoffrey Rush']",94000000,940335536,124.961,7.823,2000s
+310,The Social Network,['Drama'],"['Jesse Eisenberg', 'Andrew Garfield', 'Justin Timberlake', 'Armie Hammer', 'Max Minghella']",40000000,224920315,28.401,7.35,2010s
+311,The Godfather Part II,"['Drama', 'Crime']","['Al Pacino', 'Robert Duvall', 'Diane Keaton', 'Robert De Niro', 'John Cazale']",13000000,102600000,55.983,8.596,1970s
+312,The Devil Wears Prada,"['Comedy', 'Drama', 'Romance']","['Anne Hathaway', 'Meryl Streep', 'Emily Blunt', 'Stanley Tucci', 'Simon Baker']",35000000,326551094,77.889,7.383,2000s
+313,Kick-Ass,"['Action', 'Crime']","['Aaron Taylor-Johnson', 'Chloë Grace Moretz', 'Nicolas Cage', 'Lyndsy Fonseca', 'Mark Strong']",28000000,96188903,44.007,7.118,2010s
+314,Fury,"['War', 'Drama', 'Action']","['Brad Pitt', 'Logan Lerman', 'Michael Peña', 'Shia LaBeouf', 'Jon Bernthal']",68000000,211817906,117.499,7.514,2010s
+315,Good Will Hunting,['Drama'],"['Matt Damon', 'Robin Williams', 'Ben Affleck', 'Stellan Skarsgård', 'Minnie Driver']",10000000,225933435,46.48,8.146,1990s
+316,The Incredible Hulk,"['Science Fiction', 'Action', 'Adventure']","['Edward Norton', 'Liv Tyler', 'Tim Roth', 'William Hurt', 'Tim Blake Nelson']",150000000,163712074,65.455,6.203,2000s
+317,"I, Robot","['Action', 'Science Fiction']","['Will Smith', 'Bridget Moynahan', 'Alan Tudyk', 'James Cromwell', 'Bruce Greenwood']",120000000,347234916,44.73,6.931,2000s
+318,Knives Out,"['Comedy', 'Crime', 'Mystery']","['Daniel Craig', 'Chris Evans', 'Ana de Armas', 'Jamie Lee Curtis', 'Michael Shannon']",40000000,309232797,58.732,7.852,2010s
+319,No Country for Old Men,"['Crime', 'Drama', 'Thriller']","['Josh Brolin', 'Javier Bardem', 'Tommy Lee Jones', 'Kelly Macdonald', 'Woody Harrelson']",25000000,171627166,33.805,7.934,2000s
+320,Taxi Driver,"['Crime', 'Drama']","['Robert De Niro', 'Jodie Foster', 'Albert Brooks', 'Harvey Keitel', 'Leonard Harris']",1300000,28570902,47.804,8.166,1970s
+321,Rise of the Planet of the Apes,"['Thriller', 'Action', 'Drama', 'Science Fiction']","['James Franco', 'Andy Serkis', 'Freida Pinto', 'John Lithgow', 'Brian Cox']",93000000,482860185,80.498,7.284,2010s
+322,The Fault in Our Stars,"['Romance', 'Drama']","['Shailene Woodley', 'Ansel Elgort', 'Nat Wolff', 'Laura Dern', 'Sam Trammell']",14000000,307166834,41.143,7.603,2010s
+323,Amélie,"['Comedy', 'Romance']","['Audrey Tautou', 'Mathieu Kassovitz', 'Rufus', 'Lorella Cravotta', 'Serge Merlin']",10000000,173921954,42.667,7.903,2000s
+324,Ocean's Eleven,"['Thriller', 'Crime']","['George Clooney', 'Matt Damon', 'Andy García', 'Brad Pitt', 'Julia Roberts']",85000000,450717150,63.752,7.422,2000s
+325,The Sixth Sense,"['Mystery', 'Thriller', 'Drama']","['Bruce Willis', 'Haley Joel Osment', 'Toni Collette', 'Olivia Williams', 'Donnie Wahlberg']",40000000,672806292,35.396,7.944,1990s
+326,American History X,['Drama'],"['Edward Norton', 'Edward Furlong', ""Beverly D'Angelo"", 'Jennifer Lien', 'Ethan Suplee']",20000000,23875127,33.395,8.355,1990s
+327,12 Years a Slave,"['Drama', 'History']","['Chiwetel Ejiofor', 'Michael Fassbender', ""Lupita Nyong'o"", 'Benedict Cumberbatch', 'Paul Dano']",20000000,187000000,24.59,7.948,2010s
+328,The Conjuring,"['Horror', 'Thriller']","['Patrick Wilson', 'Vera Farmiga', 'Lili Taylor', 'Ron Livingston', 'Mackenzie Foy']",13000000,320406242,119.873,7.539,2010s
+329,Despicable Me 2,"['Animation', 'Comedy', 'Family']","['Steve Carell', 'Kristen Wiig', 'Benjamin Bratt', 'Miranda Cosgrove', 'Russell Brand']",76000000,970761885,97.182,6.914,2010s
+330,The Pursuit of Happyness,['Drama'],"['Will Smith', 'Jaden Smith', 'Thandiwe Newton', 'Brian Howe', 'James Karen']",55000000,307077295,40.74,7.902,2000s
+331,Black Widow,"['Action', 'Adventure', 'Science Fiction']","['Scarlett Johansson', 'Florence Pugh', 'Rachel Weisz', 'David Harbour', 'Ray Winstone']",200000000,379751655,98.472,7.348,2020s
+332,Ice Age: The Meltdown,"['Animation', 'Family', 'Comedy', 'Adventure']","['Ray Romano', 'John Leguizamo', 'Denis Leary', 'Queen Latifah', 'Seann William Scott']",80000000,660998756,85.372,6.681,2000s
+333,Mission: Impossible - Ghost Protocol,"['Action', 'Thriller', 'Adventure']","['Tom Cruise', 'Paula Patton', 'Simon Pegg', 'Jeremy Renner', 'Michael Nyqvist']",145000000,694713380,53.962,7.053,2010s
+334,The Fast and the Furious,"['Action', 'Crime', 'Thriller']","['Paul Walker', 'Vin Diesel', 'Michelle Rodriguez', 'Jordana Brewster', 'Rick Yune']",38000000,207283925,13.01,6.941,2000s
+335,Requiem for a Dream,"['Crime', 'Drama']","['Ellen Burstyn', 'Jared Leto', 'Jennifer Connelly', 'Marlon Wayans', 'Christopher McDonald']",4500000,7390108,11.713,8.033,2000s
+336,Frozen II,"['Family', 'Animation', 'Adventure', 'Comedy', 'Fantasy']","['Idina Menzel', 'Kristen Bell', 'Josh Gad', 'Jonathan Groff', 'Sterling K. Brown']",150000000,1450026933,118.586,7.28,2010s
+337,Indiana Jones and the Last Crusade,"['Adventure', 'Action']","['Harrison Ford', 'Sean Connery', 'Denholm Elliott', 'Alison Doody', 'John Rhys-Davies']",48000000,474171806,41.327,7.8,1980s
+338,Into the Wild,"['Adventure', 'Drama']","['Emile Hirsch', 'Marcia Gay Harden', 'William Hurt', 'Jena Malone', 'Brian H. Dierker']",15000000,56255142,48.25,7.814,2000s
+339,The Matrix Revolutions,"['Adventure', 'Action', 'Thriller', 'Science Fiction']","['Keanu Reeves', 'Laurence Fishburne', 'Carrie-Anne Moss', 'Hugo Weaving', 'Jada Pinkett Smith']",150000000,424988211,42.873,6.704,2000s
+340,Toy Story 4,"['Family', 'Adventure', 'Animation', 'Comedy', 'Fantasy']","['Tom Hanks', 'Tim Allen', 'Annie Potts', 'Tony Hale', 'Keegan-Michael Key']",175000000,1073394593,81.827,7.532,2010s
+341,Trainspotting,"['Drama', 'Crime']","['Ewan McGregor', 'Ewen Bremner', 'Jonny Lee Miller', 'Robert Carlyle', 'Kelly Macdonald']",4000000,16491080,21.232,7.972,1990s
+342,The Wolverine,"['Action', 'Science Fiction', 'Adventure', 'Fantasy']","['Hugh Jackman', 'Tao Okamoto', 'Rila Fukushima', 'Hiroyuki Sanada', 'Famke Janssen']",120000000,415440673,13.349,6.392,2010s
+343,Dune,"['Science Fiction', 'Adventure']","['Timothée Chalamet', 'Rebecca Ferguson', 'Oscar Isaac', 'Josh Brolin', 'Stellan Skarsgård']",165000000,402027830,116.047,7.803,2020s
+344,X-Men: The Last Stand,"['Adventure', 'Action', 'Science Fiction', 'Thriller']","['Famke Janssen', 'Hugh Jackman', 'Anna Paquin', 'Halle Berry', 'Patrick Stewart']",210000000,459359555,1.968,6.404,2000s
+345,Venom: Let There Be Carnage,"['Science Fiction', 'Action', 'Adventure']","['Tom Hardy', 'Woody Harrelson', 'Michelle Williams', 'Naomie Harris', 'Reid Scott']",110000000,506863592,190.053,6.871,2020s
+346,Godzilla vs. Kong,"['Action', 'Fantasy', 'Science Fiction']","['Alexander Skarsgård', 'Millie Bobby Brown', 'Rebecca Hall', 'Brian Tyree Henry', 'Shun Oguri']",200000000,470116094,222.824,7.688,2020s
+347,The Twilight Saga: Eclipse,"['Adventure', 'Fantasy', 'Drama', 'Romance']","['Kristen Stewart', 'Robert Pattinson', 'Taylor Lautner', 'Bryce Dallas Howard', 'Dakota Fanning']",68000000,698491347,111.054,6.221,2010s
+348,Saw,"['Horror', 'Mystery', 'Crime']","['Cary Elwes', 'Leigh Whannell', 'Danny Glover', 'Monica Potter', 'Ken Leung']",1200000,103911669,50.212,7.396,2000s
+349,Elysium,"['Science Fiction', 'Action', 'Drama', 'Thriller']","['Matt Damon', 'Jodie Foster', 'Sharlto Copley', 'Diego Luna', 'Wagner Moura']",115000000,286140700,35.35,6.494,2010s
+350,The Pianist,"['Drama', 'War']","['Adrien Brody', 'Thomas Kretschmann', 'Frank Finlay', 'Maureen Lipman', 'Emilia Fox']",35000000,120072577,39.289,8.383,2000s
+351,Snatch,"['Crime', 'Comedy']","['Jason Statham', 'Brad Pitt', 'Stephen Graham', 'Dennis Farina', 'Alan Ford']",10000000,83557872,27.314,7.802,2000s
+352,Shang-Chi and the Legend of the Ten Rings,"['Action', 'Adventure', 'Fantasy']","['Simu Liu', 'Tony Leung Chiu-wai', 'Awkwafina', ""Zhang Meng'er"", 'Fala Chen']",150000000,432243292,163.746,7.62,2020s
+353,Corpse Bride,"['Romance', 'Fantasy', 'Animation']","['Johnny Depp', 'Helena Bonham Carter', 'Emily Watson', 'Tracey Ullman', 'Paul Whitehouse']",40000000,118133252,90.016,7.515,2000s
+354,The King's Speech,"['Drama', 'History']","['Colin Firth', 'Geoffrey Rush', 'Helena Bonham Carter', 'Guy Pearce', 'Timothy Spall']",15000000,414211549,22.418,7.739,2010s
+355,Ghostbusters,"['Comedy', 'Fantasy']","['Bill Murray', 'Dan Aykroyd', 'Sigourney Weaver', 'Harold Ramis', 'Rick Moranis']",30000000,296187079,24.03,7.464,1980s
+356,The Hangover Part III,['Comedy'],"['Bradley Cooper', 'Ed Helms', 'Zach Galifianakis', 'Justin Bartha', 'Ken Jeong']",103000000,362000072,82.896,6.216,2010s
+357,Hotel Transylvania,"['Animation', 'Comedy', 'Family', 'Fantasy']","['Adam Sandler', 'Andy Samberg', 'Selena Gomez', 'Kevin James', 'Fran Drescher']",85000000,358375603,68.35,6.956,2010s
+358,The Batman,"['Crime', 'Mystery', 'Thriller']","['Robert Pattinson', 'Zoë Kravitz', 'Paul Dano', 'Jeffrey Wright', 'John Turturro']",185000000,770945583,244.137,7.7,2020s
+359,War for the Planet of the Apes,"['Drama', 'Science Fiction', 'War']","['Andy Serkis', 'Woody Harrelson', 'Steve Zahn', 'Karin Konoval', 'Michael Adamthwaite']",150000000,490719763,93.307,7.154,2010s
+360,Dallas Buyers Club,"['Drama', 'History']","['Matthew McConaughey', 'Jared Leto', 'Jennifer Garner', ""Denis O'Hare"", 'Steve Zahn']",5000000,55736588,14.126,7.933,2010s
+361,Mission: Impossible - Rogue Nation,"['Action', 'Adventure']","['Tom Cruise', 'Jeremy Renner', 'Simon Pegg', 'Rebecca Ferguson', 'Ving Rhames']",150000000,682716636,45.556,7.176,2010s
+362,The Equalizer,"['Thriller', 'Action', 'Crime']","['Denzel Washington', 'Marton Csokas', 'Chloë Grace Moretz', 'Johnny Skourtis', 'David Harbour']",55000000,192330738,57.464,7.236,2010s
+363,Annihilation,"['Science Fiction', 'Horror']","['Natalie Portman', 'Jennifer Jason Leigh', 'Gina Rodriguez', 'Tessa Thompson', 'Tuva Novotny']",40000000,43070915,32.067,6.397,2010s
+364,Minority Report,"['Action', 'Thriller', 'Science Fiction', 'Mystery']","['Tom Cruise', 'Colin Farrell', 'Samantha Morton', 'Max von Sydow', 'Peter Stormare']",102000000,358372926,27.909,7.333,2000s
+365,Mean Girls,['Comedy'],"['Lindsay Lohan', 'Rachel McAdams', 'Lacey Chabert', 'Amanda Seyfried', 'Lizzy Caplan']",17000000,130126277,59.221,7.178,2000s

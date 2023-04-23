@@ -27,6 +27,8 @@ If movies profitability are affected by any other factors
 - Profitability of a movie has a high correlation with regards to the budget but a low correlation to the ratings
 - The revenue grossed also depends on a multitude of varaibles, mainly the genres/casts and whether the movie is part of a popular franchise
 - There has been a huge increase in demand for movies, and as of now at least 90% of the movies are deemed profitiable from our model
+- Going forward, we believe with a lower budget, it is easier to make a profit
+- The tradeoff between increased budget for advertisement/cast comes with a expectation of a higher Revenue, otherwise, it will be unprofitable.
 
 ## What did we learn from this project?
 - It is important to select a suitable model for the analysis of the question, as each model contains their Pros and Cons
@@ -35,6 +37,9 @@ If movies profitability are affected by any other factors
 - How to oraganise and use GitHub efficiently
 - Understanding the importance of data cleaning and basic Exploratory Analysis 
 - Accuracy of Machine Learning Models can be gradually improved over time with more data
+- Anything can be visualised and anaylysed using Data Science methods
+
+
 ## References
 
 https://christophm.github.io/interpretable-ml-book/logistic.html

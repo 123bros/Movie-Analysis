@@ -34,7 +34,7 @@ If movies profitability are affected by any other factors
 - It is important to select a suitable model for the analysis of the question, as each model contains their Pros and Cons
 - The various machine learning models and how to implement them
 - Obtain dataset from different websites using API keys from TMDB movie database
-- How to oraganise and use GitHub efficiently
+- How to organise and use GitHub efficiently
 - Understanding the importance of data cleaning and basic Exploratory Analysis 
 - Accuracy of Machine Learning Models can be gradually improved over time with more data
 - Anything can be visualised and anaylysed using Data Science methods

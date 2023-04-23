@@ -31,3 +31,5 @@ If movies profitability are affected by any other factors
 ## References
 
 https://christophm.github.io/interpretable-ml-book/logistic.html
+https://developers.themoviedb.org/3/getting-started
+https://thedirect.com/article/avatar-2-profits-box-office-global
